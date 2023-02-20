@@ -1,0 +1,30 @@
+{
+  "name": "archiver-rar",
+  "version": "1.0.0",
+  "description": "ArchiverJS RAR Support",
+  "main": "index.js",
+  "author": "Gökay SOLMAN",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sc3n3/archiver-rar.git"
+  },
+  "keywords": [
+    "archiver",
+    "winrar",
+    "rar"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "bugs": {
+    "url": "https://github.com/Sc3n3/archiver-rar/issues"
+  },
+  "homepage": "https://github.com/Sc3n3/archiver-rar#readme",
+  "dependencies": {
+    "temp": "^0.9.4"
+  }
+}
